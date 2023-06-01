@@ -1,0 +1,6 @@
+C:\Users\Micromax\Desktop\Лабы\ARM\x64\Debug\ARM.vcxproj.AssemblyReference.cache
+C:\Users\Micromax\Desktop\Лабы\ARM\x64\Debug\ARM.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Micromax\Desktop\Лабы\ARM\x64\Debug\ARM.exe
+C:\Users\Micromax\Desktop\Лабы\ARM\x64\Debug\ARM.MyForm.resources
+C:\Users\Micromax\Desktop\Лабы\ARM\x64\Debug\ARM.vcxproj.GenerateResource.cache
+C:\Users\Micromax\Desktop\Лабы\ARM\x64\Debug\ARM.MyForm1.resources
