@@ -1,0 +1,6 @@
+C:\Users\Micromax\Desktop\Лабы\ARM(R)\x64\Debug\ARM(R).vcxproj.AssemblyReference.cache
+C:\Users\Micromax\Desktop\Лабы\ARM(R)\x64\Debug\ARM(R).vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Micromax\Desktop\Лабы\ARM(R)\x64\Debug\ARM(R).exe
+C:\Users\Micromax\Desktop\Лабы\ARM(R)\x64\Debug\ARMR.AuthWindow.resources
+C:\Users\Micromax\Desktop\Лабы\ARM(R)\x64\Debug\ARM(R).vcxproj.GenerateResource.cache
+C:\Users\Micromax\Desktop\Лабы\ARM(R)\x64\Debug\ARMR.MainWindow.resources

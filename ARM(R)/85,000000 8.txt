@@ -1,0 +1,11 @@
+Кассир:admin
+Наименование товара  Цена товара
+
+TESTNAME               10
+TESTNAME               10
+TESTNAME               10
+TESTNAME               10
+TESTNAME               10
+TESTNAME               10
+Пакет                  5
+Итоговая сумма чека:  85
