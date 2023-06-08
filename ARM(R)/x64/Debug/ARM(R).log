@@ -1,0 +1,15 @@
+﻿  AuthWindow.cpp
+C:\Users\Micromax\Desktop\Лабы\ARM(R)\Food.h(11,26): warning C4305: инициализация: усечение из "double" в "const float"
+C:\Users\Micromax\Desktop\Лабы\ARM(R)\Food.h(11,31): warning C4305: инициализация: усечение из "double" в "const float"
+C:\Users\Micromax\Desktop\Лабы\ARM(R)\Food.h(11,37): warning C4305: инициализация: усечение из "double" в "const float"
+C:\Users\Micromax\Desktop\Лабы\ARM(R)\Food.h(11,42): warning C4305: инициализация: усечение из "double" в "const float"
+C:\Users\Micromax\Desktop\Лабы\ARM(R)\Food.h(11,46): warning C4305: инициализация: усечение из "double" в "const float"
+  Food.cpp
+C:\Users\Micromax\Desktop\Лабы\ARM(R)\Food.h(11,26): warning C4305: инициализация: усечение из "double" в "const float"
+C:\Users\Micromax\Desktop\Лабы\ARM(R)\Food.h(11,31): warning C4305: инициализация: усечение из "double" в "const float"
+C:\Users\Micromax\Desktop\Лабы\ARM(R)\Food.h(11,37): warning C4305: инициализация: усечение из "double" в "const float"
+C:\Users\Micromax\Desktop\Лабы\ARM(R)\Food.h(11,42): warning C4305: инициализация: усечение из "double" в "const float"
+C:\Users\Micromax\Desktop\Лабы\ARM(R)\Food.h(11,46): warning C4305: инициализация: усечение из "double" в "const float"
+  Создание кода...
+  AuthWindow.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ARM(R).vcxproj -> C:\Users\Micromax\Desktop\Лабы\ARM(R)\x64\Debug\ARM(R).exe
