@@ -6,3 +6,7 @@
  - Графы:[ отчёт](https://github.com/drgon-dev/Laboratorki/blob/main/%D0%93%D1%80%D0%B0%D1%84%D1%8B/%D0%93%D1%80%D0%B0%D1%84%D1%8B.docx)
 ## Видео отчёт
  - Youtube:https://youtu.be/3QbT4sdSyxg
+## Разработчики
+Разработал студент ПНИПУ гр. РИС-22-1Б Головин Максим
+
+контактные данные: unkn0wnby0nes@gmail.com
