@@ -1,2 +1,2 @@
 # Works
-ссылка на видео с демонстрацией - https://youtu.be/3QbT4sdSyxg
+ссылка на видео с демонстрацией работы - https://youtu.be/3QbT4sdSyxg
