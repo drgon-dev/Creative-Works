@@ -5,4 +5,4 @@
  - Бинарные деревья:[отчёт](https://github.com/drgondev/Laboratorki/blob/main/%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D1%8C%D1%8F/%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D1%8C%D1%8F.docx)
  - Графы:[отчёт](https://github.com/drgon-dev/Laboratorki/blob/main/%D0%93%D1%80%D0%B0%D1%84%D1%8B/%D0%93%D1%80%D0%B0%D1%84%D1%8B.docx)
 ##Видео отчёт
- - ссылка на видео с демонстрацией работы - https://youtu.be/3QbT4sdSyxg
+ - Видеоотчёт:https://youtu.be/3QbT4sdSyxg
